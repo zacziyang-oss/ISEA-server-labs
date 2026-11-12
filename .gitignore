@@ -1,0 +1,23 @@
+# SSH keys and secrets
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.env
+
+# Certificates and private material
+*.crt
+*.csr
+privkey*.pem
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Large files you don't need in the repo
+*.iso
+*.mp4
+*.log
