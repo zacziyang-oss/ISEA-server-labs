@@ -4,6 +4,7 @@ I was using a MACBOOK with a M2 chip so i had to stray away from using the norma
 i came across this challenge where when installing "whois" it turned out to be my VM's clock that was off so the package list looked like it was coming from the future so the apt refused them
 resulting in me not being able to reach the servers.
 so i ran: 
+
 --------------------------------------------------
 sudo timedatectl set-ntp false
 sudo timedatectl set-time "2026-11-12 11:20:00"
@@ -13,6 +14,7 @@ sudo apt update
 sudo apt install whois
 
 --------------------------------------------------
+
 This resulted in the problem being solved. |
 
 Q2 : What did you learn about virtualization tools and their differences? 
