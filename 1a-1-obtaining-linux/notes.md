@@ -35,7 +35,7 @@ Q5 : What would you have done differently if setting up another VM?
 I would plan to try to add more resources to my VM and make sure i have my time sync'd so i can avoid the headache of not knowing why it cant reach the servers to install the packages i need.
 
 
-screenshots
+![utm installation](image.png)
 
 
 
