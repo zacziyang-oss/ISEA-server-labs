@@ -11,7 +11,7 @@ This is about the labs i have completed over the past 3 weeks and what i had to 
 
 - Host machine: MACBOOK AIR (M2)
 - Virtualisation: UTM
-- Guest OS: Ubuntu 24.04 ARM64
+- Guest OS: Ubuntu 26.04 ARM64
 - Cloud platform: AWS EC2, Ubuntu
 
 ## Labs
