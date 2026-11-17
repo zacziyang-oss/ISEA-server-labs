@@ -1,4 +1,5 @@
 Lab 1a-1 Reflection questions
+
 Q1 : What challenges did i you encounter during the virtual machine setup? 
 I was using a MACBOOK with a M2 chip so i had to stray away from using the normal VMWARE or Virtualbox we were recommended to use however i quickly understood the setup process
 i came across this challenge where when installing "whois" it turned out to be my VM's clock that was off so the package list looked like it was coming from the future so the apt refused them
