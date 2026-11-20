@@ -19,7 +19,7 @@ This is about the labs i have completed over the past 3 weeks and what i had to 
 | Lab | Topic | Folder |
 | --- | --- | --- |
 | 1a-1 | Obtaining a Linux environment | [1a-1-obtaining-linux](1a-1-obtaining-linux/)
-| 1a-2 | Ubuntu familiarisation | [1a-2-ubuntu-familiarisation](ia-2-ubuntu-familiarisation/) 
+| 1a-2 | Ubuntu familiarisation | [1a-2-ubuntu-familiarisation](1a-2-ubuntu-familiarisation/) 
 | 1b-1 | Linux services | [1b-1-linux-services](1b-1-linux-services/)
 | 1b-2 | Linux permissions | [1b-2-linux-permissions](1b-2-linux-permissions/)
 | 1b-3 | File system search | [1b-3-file-system-search](1b-3-file-system-search/)
