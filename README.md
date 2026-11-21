@@ -31,11 +31,3 @@ This is about the labs i have completed over the past 3 weeks and what i had to 
 | 3b-1 | Bash scripting, cron jobs & cloud export | [3b-1-bash-backup-cron](3b-1-bash-backup-cron/)
 | 4 | Additional service: MariaDB | [4-mariadb](4-mariadb/)
 
-## Repository structure
-
-- One folder per lab, each with a `notes.md` (commands, problems, fixes) and a `screenshots/` folder
-- `scripts/` holds the Bash scripts and cron entries
-
-## Security note
-
-No private keys, passwords or certificates are stored here. See `.gitignore`.
