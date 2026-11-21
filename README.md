@@ -28,7 +28,7 @@ This is about the labs i have completed over the past 3 weeks and what i had to 
 | 2b-2 | Bash scripting and regex | [2b-2-bash-scripting](2b-2-bash-scripting/)
 | 3a-1 | DNS configuration | [3a-1-dns](3a-1-dns/)
 | 3a-2 | SSL with Let's Encrypt | [3a-2-ssl-lets-encrypt](3a-2-ssl-lets-encrypt/)
-| 3b-1 | Bash scripting, cron jobs & cloud export | [3b-1-automation](3b-1-automation/)
+| 3b-1 | Bash scripting, cron jobs & cloud export | [3b-1-bash-backup-cron](3b-1-bash-backup-cron/)
 | 4 | Additional service: MariaDB | [4-mariadb](4-mariadb/)
 
 ## Repository structure
