@@ -4,7 +4,10 @@ Lab documentation for BRG27-ISEA: Introduction to Server Environments and Archit
 
 ## About
 
-This is about the labs i have completed over the past 3 weeks and what i had to do differently to fix issues that come up
+This is my Github repo for what the most interesting labs i learnt during the module and my screenshots for them aswell 
+in each dedicated folder for the labs i have a notes file that has the labs reflection question and my answers for them 
+this is my first time using github to document / populate it so i am still new to it but having slowly done the classes and labs 
+i am slowly starting to get the hang of it till i am also using my mac terminal to commit changes / screenshots to my repo which makes it easier for me. 
 
 
 ## Environment
