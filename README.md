@@ -24,10 +24,5 @@ i am slowly starting to get the hang of it till i am also using my mac terminal 
 | 1a-1 | Obtaining a Linux environment | [1a-1-obtaining-linux](1a-1-obtaining-linux/)
 | 1a-2 | Ubuntu familiarisation | [1a-2-ubuntu-familiarisation](1a-2-ubuntu-familiarisation/) 
 | 1b-1 | Linux services | [1b-1-linux-services](1b-1-linux-services/)
-| 1b-2 | Linux permissions | [1b-2-linux-permissions](1b-2-linux-permissions/)
-| 1b-3 | File system search | [1b-3-file-system-search](1b-3-file-system-search/)
-| 2b-2 | Bash scripting and regex | [2b-2-bash-scripting](2b-2-bash-scripting/)
-| 3a-2 | SSL with Let's Encrypt | [3a-2-ssl-lets-encrypt](3a-2-ssl-lets-encrypt/)
 | 3b-1 | Bash scripting, cron jobs & cloud export | [3b-1-bash-backup-cron](3b-1-bash-backup-cron/)
-| 4 | Additional service: MariaDB | [4-mariadb](4-mariadb/)
 
